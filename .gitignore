@@ -1,0 +1,21 @@
+# Сборка .NET
+bin/
+obj/
+dist/
+artifacts/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# Данные WER: ключи, принятые файлы, незавершённые передачи
+*.pem
+wer-data/
+*.part
+known_servers
+
+# Тестовые артефакты
+*.log
